@@ -1,16 +1,22 @@
-## Hi there 👋
+#  musaraki
 
-<!--
-**musazinho/musazinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`progamador amador`**
 
-Here are some ideas to get you started:
+Olá, meu nome é Musaraki. Sou um programador amador, no momento, estou utilizando principalmente a linguagem de programação Python. Também possuo conhecimentos básicos em HTML5 e CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://github.com/musazinho?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/musazinho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/musazinho?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/musazinho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
